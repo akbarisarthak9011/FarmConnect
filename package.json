@@ -1,0 +1,8 @@
+{
+  "name": "farmlink-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
